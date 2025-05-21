@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 10px;
+}
+form>main{
+    float: left;
+    width: 70%;
+    background-color: rgb(219, 216, 216);
+}
+
+label {
+    margin: auto;
+    width: 80px auto;
+    
+
+
+}
+
+input[type=text] {
+    display: block;
+    padding: 8px;
+    width: 40%;
+    
+}
+
+section{
+    display: block;
+    width: 100%;
+    padding: 20px;
+    margin: 420px;
+    margin-top: -480px;
+}
+
+
+
+section>label{
+    display: block;
+
+}
+
+
+div{
+    
+padding: 80px;
+background-color: rgb(143, 143, 143);
+width: 300px;
+float: right;
+margin: 30px;
+margin-top: -400px;
+
+
+
+}
+
+section>div{
+    background-color: rgb(219, 216, 216);
+
+    margin-top: -1px;
+    margin-right: 50%;
+    
+    width: 50%;
+}
+
+
+
+footer {
+    clear: left;
+    background-color: rgb(19, 63, 19);
+    text-align: center;
+    color: white;
+width: 70%;
+margin: 10px;
+
+}
+
