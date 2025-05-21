@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+}
+
+form>main{
+
+
+    
+}
+
+main>input{
+    display: block;
+    width: 25%;
+    padding: 8px;
+
+    
+}
+main>label{
+    
+}
+main>div{
+    display: block;
+    float: left;
+    margin-top: 1%;
+    width: 10%;
+}
+main>div>input{
+    padding: 5px;
+    width: 85%;
+}
+form>section{
+    margin-left: 30%;
+    margin-top: -10%;
+
+}
+section>input{
+    display: block;
+    width: 40%;
+    padding: 9px;
+}
+section>label{
+
+}
+section>div{
+    display: block;
+    float: left;
+    margin-top: 1%;
+    width: 15%;
+    
+}
+section>div>input{
+    
+    width: 85%;
+    padding: 4%;
+}
+
+#wwe>a{
+    display: block;
+    margin-left: -120%;
+padding: 20%;
+}
+    #wwe>h4{
+        margin-left: -80%;
+        margin-top: -110%;
+
+    }
+
+#wwe{
+    
+    float: right;
+    margin-top: -35%;
+    background-color:rgb(159, 164, 168);
+    padding: 8%;
+}
+#wwe>div{
+
+margin-right: 100%;
+margin-left: 150%;
+margin-top: -200%;
+
+}
+#wwe>h5{
+    margin-top: 10%;
+    margin-left: -80%;
+}
+footer{
+    text-align: center;
+    background-color: rgb(22, 201, 46);
+    padding: 8px;
+    width: 58%;
+    margin-top: 20%;
+}
